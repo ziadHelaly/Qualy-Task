@@ -1,6 +1,5 @@
-package com.example.qualytask.ui.theme
+package com.example.qualytask.view.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

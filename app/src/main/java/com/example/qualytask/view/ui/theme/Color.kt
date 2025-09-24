@@ -1,4 +1,4 @@
-package com.example.qualytask.ui.theme
+package com.example.qualytask.view.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

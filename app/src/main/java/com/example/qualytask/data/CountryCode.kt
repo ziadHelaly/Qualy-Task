@@ -1,7 +1,7 @@
-package com.example.qualytask
+package com.example.qualytask.data
 
 data class CountryCode(
-    val flag: String,
+    val flag: Int,
     val country: String,
     val dialCode: String
 )
